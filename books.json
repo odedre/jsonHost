@@ -1,10 +1,10 @@
 {
   "books": [{
-    "author": "Gary A. Haugen",
+    "author": "Andrea Passaglia",
     "id": 1,
     "date": "5/3/89",
-    "title": "Just Courage",
-    "cover": "http://blogs.ivpress.com/img/bb_just_courage_2.jpg"
+    "title": "Vue.js 2 Cookbook",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhKmx7yLzpVLkJ_xnRRPGdbXYD98xYrxWBoz1jtHHBHkG16Mji"
   },
   {
     "author": "Harper Lee",
