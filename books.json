@@ -1,86 +1,86 @@
 {
   "books": [{
-    "author": "name1",
+    "author": "Gary A. Haugen",
     "id": 1,
     "date": "5/3/89",
-    "title": "A title for me",
-    "cover": "http://images.veerle.duoh.com/uploads/design-article-images/adaptive-web-bookcover-final-design.jpg"
+    "title": "Just Courage",
+    "cover": "http://blogs.ivpress.com/img/bb_just_courage_2.jpg"
   },
   {
-    "author": "name2",
+    "author": "Harper Lee",
     "id": 2,
     "date": "5/3/89",
-    "title": "bTitle2",
-    "cover": "http://images.veerle.duoh.com/uploads/design-article-images/adaptive-web-bookcover-final-design.jpg"
+    "title": "To Kill A Mocking Bird",
+    "cover": "https://s-media-cache-ak0.pinimg.com/736x/a0/96/ff/a096ff3bafb7786b59ef9ba9d3e7ddf2.jpg"
   },
   {
-    "author": "name3",
+    "author": "Marijn Haverbeke",
     "id": 3,
     "date": "5/3/89",
-    "title": "cTitle3",
-    "cover": "http://images.veerle.duoh.com/uploads/design-article-images/adaptive-web-bookcover-final-design.jpg"
+    "title": "Eloquent Javascript",
+    "cover": "http://eloquentjavascript.net/img/cover.png"
   },
   {
-    "author": "name4",
+    "author": "Michael S. Huey",
     "id": 4,
     "date": "5/3/89",
-    "title": "ditle4",
-    "cover": "http://images.veerle.duoh.com/uploads/design-article-images/adaptive-web-bookcover-final-design.jpg"
+    "title": "Art In Nature",
+    "cover": "https://marketplace.canva.com/MACF_C9xLJs/1/0/thumbnail_large/canva-nature-guide-wattpad-book-cover-MACF_C9xLJs.jpg"
   },
   {
-    "author": "name5",
+    "author": "Azat Mardan",
     "id": 5,
     "date": "5/3/89",
-    "title": "bookTitle5",
-    "cover": "http://images.veerle.duoh.com/uploads/design-article-images/adaptive-web-bookcover-final-design.jpg"
+    "title": "Express.js Guide",
+    "cover": "http://expressjsguide.com/assets/img/title-page-cover.png"
   },
   {
-    "author": "name6",
+    "author": "Oded Reuveny",
     "id": 6,
     "date": "5/3/89",
-    "title": "bookTitle6",
+    "title": "Adaptive Web Design",
     "cover": "http://images.veerle.duoh.com/uploads/design-article-images/adaptive-web-bookcover-final-design.jpg"
   },
   {
-    "author": "name7",
+    "author": "Axel Rauschmayer",
     "id": 7,
     "date": "5/3/89",
-    "title": "bookTitle7",
-    "cover": "http://images.veerle.duoh.com/uploads/design-article-images/adaptive-web-bookcover-final-design.jpg"
+    "title": "Exploring ES6",
+    "cover": "http://exploringjs.com/es6/images/cover.jpg"
   },
   {
-    "author": "name8",
+    "author": "Karim Fisher",
     "id": 8,
     "date": "5/3/89",
-    "title": "bookTitle8",
-    "cover": "http://images.veerle.duoh.com/uploads/design-article-images/adaptive-web-bookcover-final-design.jpg"
+    "title": "JS For Cats",
+    "cover": "https://tutorialzine.com/media/2015/05/cover_jsforcats.png"
   },
   {
-    "author": "name9",
+    "author": "Fernando Monteiro",
     "id": 9,
     "date": "5/3/89",
-    "title": "bookTitle9",
-    "cover": "http://images.veerle.duoh.com/uploads/design-article-images/adaptive-web-bookcover-final-design.jpg"
+    "title": "Node.js Projects",
+    "cover": "https://www.packtpub.com/sites/default/files/bookretailers/V06202_MockupCover.jpg"
   },
   {
-    "author": "name10",
+    "author": "Azat Mardan",
     "id": 10,
     "date": "5/3/89",
-    "title": "bookTitle10",
-    "cover": "http://images.veerle.duoh.com/uploads/design-article-images/adaptive-web-bookcover-final-design.jpg"
+    "title": "Pro Express.js",
+    "cover": "http://proexpressjs.com/images/cover.jpg"
   },
   {
-    "author": "name11",
+    "author": "Alex Libby",
     "id": 11,
     "date": "5/3/89",
-    "title": "bookTitle11",
-    "cover": "http://images.veerle.duoh.com/uploads/design-article-images/adaptive-web-bookcover-final-design.jpg"
+    "title": "Learning Less.js",
+    "cover": "https://www.packtpub.com/sites/default/files/0663OS_Learning%20Less.JS_cover.jpg"
   },
   {
-    "author": "name12",
+    "author": "Andrea Passaglia",
     "id": 12,
     "date": "5/3/89",
-    "title": "bookTitle12",
-    "cover": "http://images.veerle.duoh.com/uploads/design-article-images/adaptive-web-bookcover-final-design.jpg"
+    "title": "Vue.js 2 Cookbook",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhKmx7yLzpVLkJ_xnRRPGdbXYD98xYrxWBoz1jtHHBHkG16Mji"
   }]
 }
