@@ -3,8 +3,8 @@
     "author": "Andrea Passaglia",
     "id": 1,
     "date": "2016-04-08",
-    "title": "Vue.js 2 Cookbook",
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhKmx7yLzpVLkJ_xnRRPGdbXYD98xYrxWBoz1jtHHBHkG16Mji"
+    "title": "JavaScript the good parts",
+    "cover": "https://static1.squarespace.com/static/5252929de4b062435b69427c/t/5257de76e4b08eec93bc207b/1381490295305/javascriptgoodparts.jpg"
   },
   {
     "author": "Harper Lee",
@@ -45,8 +45,8 @@
     "author": "Axel Rauschmayer",
     "id": 7,
     "date": "2010-03-19",
-    "title": "Exploring ES6",
-    "cover": "http://exploringjs.com/es6/images/cover.jpg"
+    "title": "JavaScript the good parts",
+    "cover": "https://static1.squarespace.com/static/5252929de4b062435b69427c/t/5257de76e4b08eec93bc207b/1381490295305/javascriptgoodparts.jpg"
   },
   {
     "author": "Karim Fisher",
@@ -80,7 +80,7 @@
     "author": "Andrea Passaglia",
     "id": 12,
     "date": "2016-01-05",
-    "title": "Vue.js 2 Cookbook",
+    "title": "Vue.js Cookbook",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhKmx7yLzpVLkJ_xnRRPGdbXYD98xYrxWBoz1jtHHBHkG16Mji"
   }]
 }
